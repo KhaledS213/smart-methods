@@ -1,0 +1,136 @@
+*{
+    margin: 5;
+    padding: 0;
+}
+#all
+{
+    margin: 0 auto;
+    text-align: 0 auto;
+    
+}
+/*----------------------------*/
+#The_upper_part{
+        border:solid 6px;
+        width: 100;
+        color: rgb(108, 30, 145);
+       background-image: url(https://yomiko.co.il/wp-content/uploads/2019/01/%D7%95%D7%95%D7%A8%D7%93%D7%A4%D7%A8%D7%A1-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%AA%D7%A8%D7%99%D7%9D.jpg);
+       background-position: bottom ;
+    }
+    ul{
+       
+        float:right ;
+        float:inline-start ;
+        color: rgb(240, 24, 24);
+        font-size: 40px;
+        position: relative;
+        padding-right: 40px;
+        color: rgb(219, 72, 72);
+
+
+    }
+    a{
+        color: rgb(3, 3, 3);
+    }
+    a:hover{
+        color: rgb(255, 0, 0);
+    }
+    #text1
+    {
+       
+        margin-left: 600px;
+        font-size: 30px;
+        color: rgba(52, 23, 121, 0.897);
+        float: top;
+        font-style: italic;
+        
+    }
+    
+    #myTopnav
+{
+    color: white;
+}
+   #img1
+   {
+       margin-top: 1mm;
+   } 
+   
+   li{
+       color: rgb(233, 62, 156);
+       font-size: "600px";
+
+   }
+   
+   /*-------------------------------***********************************------------*/
+   #medim
+   {
+    border: solid 6px rgb(144, 106, 15);
+       
+       background-image:  url(https://259506.selcdn.ru/site460112/69a5b4be-697a-4cd9-ad79-2411d5f34435/69a5b4be-697a-4cd9-ad79-2411d5f34435-764967.jpeg);
+      background-position: 6500px;
+      background-attachment: fixed;
+       
+   }
+   .Main_address{
+       margin:10% 20% 10% 20%;
+       font-size: 50px;
+    
+   }
+   .inf1{
+       border: solid black 3px;
+   }
+   
+   /*--------------------index------------------------------------*/
+   
+   .Main_address2{
+       padding-left: 30%;
+       font-size: 30px;
+       font-family: Monospace;
+       color: rgb(115, 22, 221);
+
+   }
+
+   .img_the_robot{
+    border: solid 10px black  ;
+    background-image: url(https://lh3.googleusercontent.com/Jj-bcHm3oCWUd5w2jPfOIdQPVCI8tX5HWsgG5HWGYZPvv0jpVeWbiXWBqDWBIJZLDRhVpg=s85);
+    width: 350px;
+    height: 650px;
+    padding-left: 5px; 
+    -webkit-background-size: 100%; 
+   }
+   .Engine_Commands{
+    margin-left: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+      height: 666px;
+    width: 155px;
+    background:rgb(186, 152, 214);
+    border-radius: 100px;
+    padding: 0 65px 0 45px;
+   }
+   .button1{
+       
+       margin-left: 60rem;
+       width: 80px;           
+       background-color: #755e13; /* Green */
+       border: none;
+       color: white;
+       padding: 15px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       margin: 4px 2px;
+       cursor: pointer;
+       
+   }
+   .buttons{
+       margin-left: 60rem;
+       display: block;
+       display: inline-block;
+    
+  }
+   
+   
+   /*---------------------------------------*/
+   
+   
